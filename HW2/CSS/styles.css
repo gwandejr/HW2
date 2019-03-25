@@ -1,0 +1,62 @@
+/*Lists the navigation links horizontally*/
+ul.nav li{
+    display: inline;
+    margin-right: 100px;
+    font-size: 30px;
+}
+
+/*Center aligns the navigation links*/
+div.nav_center{text-align: center;
+}
+
+/*Center aligns the main home page heading*/
+h1.h1_home_top{text-align: center;
+}
+
+/*Center aligns the main home page image of G. Anderson at the top*/
+img.img_home_top{display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*Increases the left and right margins of paragraphs and h3 headings*/
+h1, h3, h4, p{margin-left: 100px;
+    margin-right: 100px;
+}
+
+/*Bolds key words in the paragraphs*/
+span.bold_para_text{font-weight: bold;
+    }
+
+/*Creates space between all three mid-page images*/
+img.img_mid1, img.img_mid2, img.img_mid2{display: inline;
+    margin-right: 200px;
+}
+
+/*Centers all three mid-page images, listed above*/
+div.img_mid{text-align: center;
+}
+
+/*Center aligns the table*/
+table{width: 800px;
+    border: 2px;
+    border-spacing: 1px;
+    padding: .5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*Center aligns text in table cells*/
+td{text-align: center;
+}
+
+/*Center aligns, spaces, and enlargens the back-to-top-link at bottom of all pages*/
+#home_back_to_top, #background_back_to_top, #interests_back_to_top{text-align: center;
+        margin: 20px;
+        margin-left: auto;
+        margin-right: auto;
+        font-size: 30px;    
+}
+
+div.gif{text-align: center
+}
